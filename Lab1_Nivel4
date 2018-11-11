@@ -1,0 +1,36 @@
+Student student1 = new Student("Fábio Faustino", "090221026");
+student1.getName()
+    returned String "Fábio Faustino"
+student1.getStudentID()
+    returned String "090221026"
+student1.getLoginName()
+    returned String "Fábi090"
+student1.addCredits(6);
+student1.getCredits()
+    returned int 6
+LabClass labClass1 = new LabClass(18);
+labClass1.numberOfStudents()
+    returned int 0
+labClass1.enrollStudent(student1);
+labClass1.numberOfStudents()
+    returned int 1
+labClass1.printList();
+Lab class unknown
+Instructor: unknown   Room: unknown
+Class list:
+Fábio Faustino, student ID: 090221026, credits: 6
+Number of students: 1
+student1.changeName("Fábio");
+labClass1.printList();
+Lab class unknown
+Instructor: unknown   Room: unknown
+Class list:
+Fábio, student ID: 090221026, credits: 6
+Number of students: 1
+labClass1.setRoom("F123");
+labClass1.printList();
+Lab class unknown
+Instructor: unknown   Room: F123
+Class list:
+Fábio, student ID: 090221026, credits: 6
+Number of students: 1

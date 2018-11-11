@@ -1,0 +1,18 @@
+Student estudante1 = new Student("Fábio Faustino" , "090221026");
+estudante1.print();
+Fábio Faustino, student ID: 090221026, credits: 0
+Student estudante2 = new Student("Zé", " 12345678");
+estudante2.print();
+Zé, student ID:  12345678, credits: 0
+estudante1.addCredits(9);
+estudante2.addCredits(9);
+LabClass salaDeAulas = new LabClass (20);
+salaDeAulas.enrollStudent(estudante1);
+salaDeAulas.enrollStudent(estudante2);
+salaDeAulas.printList();
+Lab class unknown
+Instructor: unknown   Room: unknown
+Class list:
+Fábio Faustino, student ID: 090221026, credits: 9
+Zé, student ID:  12345678, credits: 9
+Number of students: 2

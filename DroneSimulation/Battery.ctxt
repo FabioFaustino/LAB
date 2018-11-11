@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Battery
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Battery\ aqui.\r\n\ \r\n\ @author\ (Fabio\ Faustino\ &\ Rafael\ Prospero)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=maxCharge
+comment1.target=Battery(double)
+comment2.params=
+comment2.target=double\ getMaxCharge()
+comment3.params=
+comment3.target=double\ getCurrentCharge()
+comment4.params=
+comment4.target=void\ charge()
+comment5.params=
+comment5.target=void\ discharge()
+comment6.params=chargeUsed
+comment6.target=boolean\ useCharge(double)
+comment7.params=
+comment7.target=double\ getPercentage()
+numComments=8

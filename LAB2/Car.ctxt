@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Car\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=carBrand\ carModel\ carTankCapacity
+comment1.target=Car(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ COnstrutor\ para\ objetos\ da\ classe\ Car\r\n
+comment2.params=
+comment2.target=int\ getTankCapacity()
+comment3.params=
+comment3.target=float\ getTankLevel()
+comment4.params=
+comment4.target=float\ getTripDistance()
+comment5.params=
+comment5.target=float\ getTotalDistance()
+comment6.params=
+comment6.target=void\ fillTank()
+comment7.params=currentTripDistance\ consumedFuel
+comment7.target=void\ makeTrip(float,\ float)
+comment8.params=
+comment8.target=void\ showMeters()
+numComments=9

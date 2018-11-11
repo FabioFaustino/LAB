@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Drone
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Drone\ aqui.\r\n\ \r\n\ @author\ (F\u00E1bio\ Faustino\ &\ Rafael\ Prospero)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Drone()
+comment2.params=batteryCapacity\ engineConsumption
+comment2.target=Drone(double,\ double)
+comment3.params=
+comment3.target=void\ turnOn()
+comment4.params=
+comment4.target=void\ turnOff()
+comment5.params=
+comment5.target=void\ chargeDrone()
+comment6.params=batteryCapacity
+comment6.target=void\ replaceBattery(double)
+comment7.params=
+comment7.target=void\ fly()
+comment8.params=
+comment8.target=void\ land()
+comment9.params=flightDuration
+comment9.target=void\ fly(int)
+numComments=10

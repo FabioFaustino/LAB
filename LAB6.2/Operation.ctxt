@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Operation
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Operation\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=Operation()
+comment2.params=
+comment2.target=double\ getFirstNumber()
+comment3.params=
+comment3.target=double\ getSecondNumber()
+comment4.params=firstNumber
+comment4.target=void\ setFirstNumber(double)
+comment5.params=secondNumber
+comment5.target=void\ setSecondNumber(double)
+comment6.params=
+comment6.target=double\ add()
+comment7.params=
+comment7.target=double\ subtract()
+comment8.params=
+comment8.target=double\ multiply()
+comment9.params=
+comment9.target=double\ divide()
+numComments=10
